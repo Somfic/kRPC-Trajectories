@@ -1,5 +1,5 @@
 # kRPC-Trajectories
-A modified [Trajectories](https://github.com/neuoy/KSPTrajectories) plugin for KSP to work with kRPC.
+A modified [Trajectories](https://github.com/neuoy/KSPTrajectories) plugin for KSP to work with [kRPC](https://github.com/krpc/krpc).
 
 # How to use
 
