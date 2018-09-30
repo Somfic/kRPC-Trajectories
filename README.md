@@ -1,7 +1,7 @@
 # kRPC-Trajectories
 A modified Trajectories plugin for KSP to work with kRPC.
 
-#How to use
+# How to use
 
 1. Replace the default Trajectories.dll in GameData/Trajectories with the one in the latest release.
 
